@@ -1087,6 +1087,29 @@ section.lazy-placeholder:after {
     height: auto !important;
   }
 }
+.cid-rTFoKJfakS {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rTFoKJfakS .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rTFoKJfakS .section-text {
+  padding: 2rem 0;
+}
+.cid-rTFoKJfakS .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rTFoKJfakS .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rKgcwg0gP9 {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1742,47 +1765,121 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rQtIfyuTQ5 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/implante-dentario-1.jpeg");
 }
 .cid-rQtIhkxq8Q {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/prtese-dentria-1100x450.jpg");
 }
 .cid-rQtJqSoeuU {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/lentes-de-contato4-9-1000x500.jpg");
+}
+.cid-rTFhoEO2Ym {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/protese-dentaria-protocolo-dentadura-fixa.jpg");
+}
+.cid-rTFhpjVwnq {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/1-2.jpg");
+}
+.cid-rTFhpM9vfK {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/gengiva-saudvel-650x325.jpg");
+}
+.cid-rTFhqdDyoQ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/reabilitacao-oral-1000x480.png");
+}
+.cid-rTFhqyD9Un {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rTFhr0B2js {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/ortodontia-fazendinha.jpg");
+}
+.cid-rTFhrl6KNA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rTFhCGzAA7 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rQtIa5nHlS {
-  padding-top: 90px;
+.cid-rTFhE2ErsI {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rTFhEyGrSx {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rTFhF7YFKu {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rTFjDU0M03 {
+  padding-top: 30px;
   padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rTFjDU0M03 .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rTFjDU0M03 .step {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+}
+@media (max-width: 767px) {
+  .cid-rTFjDU0M03 .step {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+.cid-rTFjDU0M03 .separline {
+  position: relative;
+}
+.cid-rTFjDU0M03 .separline:after {
+  top: 68px;
+  left: 30px;
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: calc(100% - (32px + 4px) * 2);
   background-color: #efefef;
 }
-.cid-rQtIa5nHlS h4 {
-  text-align: left;
-  font-weight: 500;
+@media (max-width: 767px) {
+  .cid-rTFjDU0M03 .separline:after {
+    top: 52px;
+    left: 22px;
+    height: calc(100% - 56px);
+  }
 }
-.cid-rQtIa5nHlS p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
+.cid-rTFvIXUeln {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
 }
-.cid-rQtIa5nHlS .card-img {
-  text-align: left;
-  background-color: #ffffff;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  padding: 3rem 2.5rem 0 2.5rem;
-}
-.cid-rQtIa5nHlS .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-rQtIa5nHlS .card-box {
-  padding: 0rem 2.5rem 3rem 2.5rem;
-  background-color: #ffffff;
+.cid-rTFvIXUeln .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rKdf1qK5yg {
   padding-top: 30px;
