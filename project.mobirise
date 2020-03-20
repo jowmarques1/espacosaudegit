@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-12-09_2256",
-    "currentPage": "page1.html",
+    "name": "Espaço Saúde Odontologia",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,17 +62,18 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "gdpr": false,
-    "imageResize": false
+    "imageResize": true
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Espaço Saúde Odontologia",
+        "meta_descr": "Rede de Consultórios de alto padrão, vem para Espaço Saúde Odontologia.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logoespaosaude-png-1000x1000.png"
       },
       "components": [
         {
@@ -1562,7 +1563,7 @@
             "bgColorRadio": false,
             "bgColor": "#fafafa",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background2.jpg",
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
