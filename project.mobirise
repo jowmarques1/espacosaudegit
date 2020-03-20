@@ -775,7 +775,7 @@
         },
         {
           "_params": {
-            "token": "31627854142.727bfe1.fb45022c02a943219d35f1fce5a7984a",
+            "token": "3491171156.727bfe1.d89b3190b467412eb517843e2da7e55f",
             "showTitle": true,
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
@@ -796,7 +796,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"2253056715430438955_3491171156\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Ver mais</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
@@ -1563,7 +1563,7 @@
             "bgColorRadio": false,
             "bgColor": "#fafafa",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background0.jpg",
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
